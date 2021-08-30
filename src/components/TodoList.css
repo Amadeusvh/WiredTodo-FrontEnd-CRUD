@@ -1,0 +1,51 @@
+/*Maquiagem do Front*/
+
+.inputText {
+  width: 98%;
+}
+
+.todo {
+  color: black;
+  border: none;
+  background-color: #8a7586;
+}
+
+.true {
+  text-decoration: line-through;
+  color:#2b2b2b;
+}
+
+.fa {
+ color: #bf349c;
+}
+
+.editButton {
+  margin-right: 5px;
+}
+
+.listButton {
+  margin-right: 15px !important;
+}
+
+.checkButton {
+  margin-right: 10px;
+}
+
+.todoEdit {
+  background-color: #8a7586;
+  border: none;
+}
+
+#title {
+  color: #bf349c;
+}
+
+#list {
+  background-color: #8a7586;
+  display: flex;
+  align-items: center;
+}
+
+#completeButton {
+  margin-right: 10px;
+}
