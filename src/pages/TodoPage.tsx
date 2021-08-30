@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import TodoList from "../components/TodoList";
 
 const TodoPage = () => {
-
+  
 		return (
 				<Container className="todoPage">
 						<Row>
