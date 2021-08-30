@@ -14,7 +14,7 @@ const TodoPage = () => {
 								</Col>
 						</Row>
 						<Row>
-								{/*Chamando o componente para a pagina*/}
+								{/*Chamando o componente da lista para a pagina*/}
 								<TodoList/>
 						</Row>
 				</Container>
