@@ -8,11 +8,11 @@ a parte de frontend foi feita utilizando: React, ReactBootstrap e TypeScript
 
 para instalar os modulos necessários deverá ser utilizado o comando:
 
-# `yarn install`
+ `yarn install`
 
 após a instalação poderá ser efetuado o comando: 
 
-# `yarn start`
+ `yarn start`
 
 abrindo assim o projeto frontend no seu navegador pelo link
 [http://localhost:3000](http://localhost:3000).
